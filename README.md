@@ -1,6 +1,6 @@
 # ProduZ v1.0
 ProduZ is an online application in its development phase designed for the convenience of a particular group of farmers comparing performance between | across groups through experiments. It is powered by R to carry out Descriptive and Inferential Statistics together with the creation of Boxplots for Data Visualization.The said application chooses the appropriate data analytics tool (given an algorithm, the application works on the testing of the assumptions at the backend which will dictate which tool to use e.g. descriptives and inferential stats fitfor Gaussian or that for non-Gaussian etc.), processes it  and presents a boxplot for visualazation. The About ProduZ tab provides a background of the application and the terms and conditions that apply upon use. The Sample Data tab provides an overview of how the data frame in the excel sheet should be organized in order to analyze data accordingly. If all is clear in terms of the structure of the data frame, head on to the Group Comparison (which ever is appropriate based on your experimental design) where users get to upload the excel file and have it processed for Descriptive and Inferential Analysis. This has also been developed with the hopes that the said group. 
-[Link to Produz](www.pghilado.shinyapps.io/produz/)
+[Link to Produz](http://pghilado.shinyapps.io/produz/)
 
 ### License Notice
 ProduZ v1.0 is a free online application. You can redistribute it and/or modify
